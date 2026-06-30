@@ -4,8 +4,6 @@
 
 ConnectLocal is an age friendly social discovery web platform for older Australians aged 65 to 85 living alone in metropolitan Melbourne. It brings together social events, journey planning, suburb liveability information, and an AI chatbot assistant into a single accessible website.
 
-Built as part of FIT5120 Industry Experience Studio at Monash University, Semester 1, 2026.
-
 ---
 
 ## Table of Contents
@@ -39,8 +37,6 @@ Built as part of FIT5120 Industry Experience Studio at Monash University, Semest
 | Iteration 1 | https://connect-local-v1.vercel.app |
 | Iteration 2 | https://connect-local-v2.vercel.app |
 | Iteration 3 | https://connect-local-v3.vercel.app |
-| LeanKit Board | https://monashie.leankit.com/board/2426784368 |
-| E-portfolio | https://bit.ly/4mDOfhz |
 
 ---
 
