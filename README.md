@@ -79,9 +79,8 @@ Six features are delivered across three iterations:
 
 The diagram below shows the full system architecture as of Iteration 3.
 
-![ConnectLocal System Architecture](./docs/architecture.png)
+<img width="1727" height="1160" alt="image" src="https://github.com/user-attachments/assets/e4f526f9-2201-4b47-96fc-ba5ecf1f7422" />
 
-> **Note:** Place the `Updated_System_Architecture.png` file inside a `docs/` folder at the repo root and rename it to `architecture.png` for the diagram above to render. Alternatively, update the image path.
 
 ### Architecture Layers
 
